@@ -104,7 +104,7 @@
 									  <tbody>
 									   <tr>
 										 <td><strong>공지</strong></td>
-										 <td><strong>비속어 사용과 음란물 게시시 활동정지 처분합니다.</strong></td>
+										 <td><strong>비속어 사용 금지</strong></td>
 										 <td><strong>2011/04/25</strong></td>
 										 <td><strong>N</strong></td>
 									   </tr>
