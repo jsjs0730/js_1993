@@ -69,9 +69,8 @@
 				</div>
 				<div class="col-md-9 col-sm-12 col-xs-12">
 						<div class="pw_info">
-							<h1>비밀번호 재확인</h1>
 							<span>
-								
+								<h1>비밀번호 재확인</h1>
 								<span style="text-align:center">
 									회원님의 소중한 정보보호를 위해 비밀번호를 재확인하고 있습니다
 								</span>

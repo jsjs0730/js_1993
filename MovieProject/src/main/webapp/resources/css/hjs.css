@@ -153,7 +153,6 @@
 .div_one {
   display:block; 
   width:100%; 
-  margin-left:10px;
   font-size:13px; 
   text-align:center
 }
@@ -250,15 +249,21 @@
   border-radius: 5px;
   margin-left:5px;
 }
+
+#basic-form {
+  width:100%;
+  margin-left:17%;
+}
 .form-style-pw {
   background-color: white;
-
+  width:60%;
+  margin:auto;
 }
 .form-style-pw .form-div{
   color:black;
   width:100%;
   display: inline-block;
-  padding:30px;
+  margin: 20px 0px;
 }
 
 .form-style-pw span{
@@ -267,7 +272,7 @@
 }
 
 .form-style-pw input[type=password]{
-  width:30%;
+  width:50%;
   display: inline-block;
 }
 
