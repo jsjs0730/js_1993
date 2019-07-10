@@ -9,7 +9,7 @@ public class LoginController {
 
 	@RequestMapping(value="/member_login.do", method=RequestMethod.GET)
 	public String Loggin() {
-		return "mypage/mypage";
+		return "mypage/one_get";
 	}
 	@RequestMapping(value="/pw_confirm.do", method=RequestMethod.GET)
 	public String pwConfirm() {

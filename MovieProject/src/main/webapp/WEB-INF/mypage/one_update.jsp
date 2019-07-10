@@ -65,7 +65,7 @@
 						</div>
 					</div>
 				</div>
-				<div style="margin-left: 10%">
+				<div>
 				<div class="col-md-9 col-sm-12 col-xs-12">
 					<div class="info_update">
 						<h1><strong>1:1 문의쓰기</strong></h1>
@@ -77,7 +77,7 @@
 								<li class="tb_line">
 									<div class="tb_th1"> 상담구분 </div>
 									<div class="tb_td1"> 
-										<label class="fancy-radio">
+										<label>
 											<input type="radio" name="genre" value="fear">&nbsp;<span>영화 문의</span>&nbsp;
 											<input type="radio" name="genre" value="melo">&nbsp;<span>예매 문의</span>&nbsp;
 											<input type="radio" name="genre" value="action">&nbsp;<span>이벤트 문의</span>&nbsp;<br>

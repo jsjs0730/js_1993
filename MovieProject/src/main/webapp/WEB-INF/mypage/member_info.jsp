@@ -124,12 +124,12 @@
 								<li class="tb_line">
 										<div class="tb_th2"> 선호장르 </div>
 										<div class="tb_td2"> 
-											<label class="fancy-radio">
+											<label>
 												<input type="radio" name="genre" value="fear">&nbsp;<span>공포/호러</span>
 												<input type="radio" name="genre" value="melo">&nbsp;<span>멜로/로맨스</span>
 												<input type="radio" name="genre" value="action">&nbsp;<span>액션</span><br>
 												<input type="radio" name="genre" value="comedy">&nbsp;<span>코미디</span>
-												<input type="radio" name="genre" value="crime">&nbsp;<span>범죄</span>
+												<input type="radio" name="genre" value="crime">&nbsp;<span>범죄</span> 
 												<input type="radio" name="genre" value="thriller">&nbsp;<span>스릴러</span>
 												<input type="radio" name="genre" value="noir">&nbsp;<span>느와르</span><br>
 												<input type="radio" name="genre" value="family">&nbsp;<span>가족</span>
