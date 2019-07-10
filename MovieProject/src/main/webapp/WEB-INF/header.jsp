@@ -556,10 +556,7 @@
                         <li class="loginLink"><a href="#">로그인</a></li>
                         <li class="btn signupLink"><a href="#">회원가입</a></li>
                         <!--  hm |   <li><a href="member_join.html">회원가입</a></li> -->
-
-
                     </ul>
-
                 </div>
                 <!-- 검색 모달 -->
                 <form id="demo-2">
